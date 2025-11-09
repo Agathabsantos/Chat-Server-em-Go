@@ -20,9 +20,9 @@ O projeto consiste em três componentes principais:
 
 Para que este projeto funcione, você deve salvar os três arquivos `main` separadamente. Sugerimos os seguintes nomes:
 
-1.  `servidor.go` (O primeiro arquivo, que contém o `hub()`)
+1.  `server.go` (O primeiro arquivo, que contém o `hub()`)
 2.  `bot.go` (O segundo arquivo, que contém o `inverter()`)
-3.  `cliente.go` (O terceiro arquivo, que contém o `fmt.Print("Escolha seu apelido...")`)
+3.  `client.go` (O terceiro arquivo, que contém o `fmt.Print("Escolha seu apelido...")`)
 
 ## ⚡ Como Executar
 
