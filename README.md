@@ -33,7 +33,7 @@ Você precisará de **três** janelas de terminal abertas no diretório onde sal
 Primeiro, inicie o servidor. Ele ficará escutando na porta `9000`.
 
 ```
-go run servidor.go
+go run server.go
 ```
 
 A saída deve ser:
@@ -46,7 +46,7 @@ Servidor escutando em 127.0.0.1:9000
 Em outra janela, inicie o cliente. Ele pedirá seu apelido.
 
 ```
-go run cliente.go
+go run client.go
 ```
 
 Siga as instruções no terminal para escolher seu apelido e começar a conversar.
