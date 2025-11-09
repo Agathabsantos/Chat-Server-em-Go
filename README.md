@@ -87,6 +87,6 @@ Uma vez conectado como cliente (humano), você pode usar os seguintes comandos:
 | :--- | :--- |
 | `\msg texto...` | Envia uma mensagem pública para todos. |
 | `\msg @apelido texto...` | Envia uma mensagem privada para `@apelido`. |
-| `\changenick novo_apelido` | Tenta trocar seu apelido atual para `novo_apelido`. |
+| `\changenick novo_apelido` | Troca seu apelido atual para `novo_apelido`. |
 | `\exit` | Desconecta do servidor. |
 | `(qualquer outro texto)` | Também conta como uma mensagem pública. |
